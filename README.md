@@ -1,5 +1,6 @@
 ### Hi there, I'm Julia and I'm a Web Designer 👋
 
+- 🌎 I'm from Brazil currently living in São Paulo
 - 👀 I'm trying to learn how to program all by myself
 - 🌱 I’m currently learning HTML/CSS, JavaScript and React
 - ⚡ Fun fact: I'm also an artist! You can find my art projects further down 👇
